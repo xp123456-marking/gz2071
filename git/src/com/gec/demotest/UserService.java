@@ -8,5 +8,6 @@ public interface UserService {
 	
 	//添加了updateUser的方法
 	void updateUser();
-
+	//张三又添加了一个aaa的方法
+	void aaa();
 }
