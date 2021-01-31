@@ -9,5 +9,7 @@ public interface UserService {
 	void setyou();
 	//张三做了新的改进
 	void setyouing();
+	//动物吃时
+	void gettginging();
 
 }
