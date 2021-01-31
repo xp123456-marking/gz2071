@@ -8,6 +8,7 @@ public interface UserService {
 
 	
 	void gettginging();
+	void setting();
 
 
 }
