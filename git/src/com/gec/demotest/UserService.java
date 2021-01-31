@@ -6,4 +6,5 @@ public interface UserService {
 	//张三的再一次的改动
 	void delete();
 	//张三做了新的改进
+	void setyou();
 }
