@@ -7,4 +7,7 @@ public interface UserService {
 	void delete();
 	//张三做了新的改进
 	void setyou();
+	//张三做了新的改进
+	void setyouing();
+
 }
